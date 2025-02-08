@@ -28,7 +28,7 @@ O interfață cât mai ușor de utilizat și o aplicație in principal bună
 ## Arhitectura
 
 
-![Diagrama](https://github.com/Programare-III-2024-2025/p3-proiect-gr7-PAlex237/blob/main/example.png)
+![Diagrama](https://github.com/PAlex237/agenda_telefonica/blob/main/images/example.png)
 
 
 
